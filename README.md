@@ -4,7 +4,7 @@
 
 - 📍 Currently Based in Los Angeles, CA
 - 📫 E-mail me at: **aaron.u.yabut@gmail.com**
-- 👨‍💻 Check out my Porfolio: aaronyabut.github.io/portfolio/
+- 👨‍💻 Check out my Porfolio: **aaronyabut.github.io/portfolio**
 
 <h2 align="left">Let's Connect!</h2>
 <p align="left">
