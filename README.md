@@ -4,11 +4,11 @@
 
 - 📍 Currently Based in Los Angeles, CA
 - 📫 E-mail me at: **aaron.u.yabut@gmail.com**
-- 👨‍💻 Check out my Porfolio: **aaronyabut.github.io/portfolio**
+- 👨‍💻 Check out my portfolio: <a href="https://aaronyabut.github.io/portfolio/" target="_blank" rel="noreferrer">**aaronyabut.github.io/portfolio**</a>
 
 <h2 align="left">Let's Connect!</h2>
 <p align="left">
-<a href="https://linkedin.com/in/aaron-yabut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-yabut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaron-yabut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-yabut" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">My Tech Stack</h2>
