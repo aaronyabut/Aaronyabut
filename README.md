@@ -8,7 +8,8 @@
 
 <h2 align="left">Let's Connect!</h2>
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-yabut/)](https://www.linkedin.com/in/aaron-yabut/)
+<!-- [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-yabut/)](https://www.linkedin.com/in/aaron-yabut/) -->
+<a href="https://www.linkedin.com/in/aaron-yabut/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-yabut/" alt="linkedin"/> </a> 
 
 <!-- <p align="left">
 <a href="https://linkedin.com/in/aaron-yabut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-yabut" height="30" width="40" /></a>
