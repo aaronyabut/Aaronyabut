@@ -47,9 +47,10 @@
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" /> </a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> </a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" /> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a> 
