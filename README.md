@@ -1,8 +1,8 @@
 <!-- [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://www.linkedin.com/in/aaron-yabut/) -->
-<h1 align="center">👋Hi there, I'm Aaron😁</h1>
-<h3 align="center">I'm a full-stack engineer that enjoys running🏃‍♂️, working out💪, and long walks at the beach🗿🌊</h3>
+<h1 align="center">Hi there, I'm Aaron 😁</h1>
+<h3 align="center">I'm a full-stack engineer that enjoys running🏃‍♂, working out💪, and long walks at the beach🗿🌊</h3>
 
-- 📍 Currently Based in Los Angeles, CA
+- 📍 Based in Los Angeles, CA
 - 📫 E-mail me at: **aaron.u.yabut@gmail.com**
 - 👨‍💻 Check out my portfolio: <a href="https://aaronyabut.github.io/portfolio/" target="_blank" rel="noreferrer">**aaronyabut.github.io/portfolio**</a>
 
