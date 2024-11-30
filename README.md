@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://www.linkedin.com/in/aaron-yabut/) -->
 <h1 align="center">Hi there, I'm Aaron 😁</h1>
-<h3 align="center">I'm a full-stack engineer that enjoys running🏃‍♂, working out💪, and long walks at the beach🗿🌊</h3>
+<h3 align="center">I'm a full-stack engineer that enjoys running🏃‍♂, working out💪, and<br>long walks at the beach🗿🌊</h3>
 
 - 📍 Based in Los Angeles, CA
 - 📫 E-mail me at: **aaron.u.yabut@gmail.com**
